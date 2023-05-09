@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+}
+.name_of_objects{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+#result_of_object{
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 23px;
+}
+#result_of_object_accuracy{
+    color: darkmagenta;
+    font-weight: bold;
+    font-size: 23px;
+}
+#camera{
+    border: 2px black dashed;
+}
